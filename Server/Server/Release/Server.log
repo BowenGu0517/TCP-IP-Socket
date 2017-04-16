@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Generating code
+  37 of 85 functions (43.5%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Server.vcxproj -> D:\潭州C++\TEST\Socket\02(console based conversation)\Server\Release\Server.exe
+  Server.vcxproj -> D:\潭州C++\TEST\Socket\02(console based conversation)\Server\Release\Server.pdb (Full PDB)
